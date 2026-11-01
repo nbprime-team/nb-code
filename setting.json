@@ -1,0 +1,10 @@
+{
+  "theme": 0,
+  "tab_width": 4,
+  "show_line_numbers": true,
+  "highlight": true,
+  "readonly": false,
+  "language": "auto",
+  "workspaces": [],
+  "default_workspace": 0
+}

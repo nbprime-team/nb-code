@@ -1,0 +1,5 @@
+nbCode notes
+-----------
+UTF-8 and GB2312 both round-trip: this file is UTF-8.
+中文也可以：这一行是 UTF-8，编辑器会按 GB2312 显示。
+保存时不会改变原来的编码。
